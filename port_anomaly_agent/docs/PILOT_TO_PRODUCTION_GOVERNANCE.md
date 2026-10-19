@@ -315,8 +315,3 @@ Before authorising production deployment, the CISO must confirm:
 - [ ] Board-level AI governance charter updated to include this system
 
 ---
-
-*Document Owner: Chief Risk Officer*
-*Review Cadence: Quarterly*
-*Next Review Date: January 2027*
-*Classification: CONFIDENTIAL — INTERNAL USE ONLY*
